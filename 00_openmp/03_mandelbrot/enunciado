@@ -1,0 +1,7 @@
+O programa computa uma área do conjunto Mandelbrot.
+
+O programa foi paralelizado com OpenMP de forma incorreta.
+
+A versão sequencial funciona corretamente.
+
+Descreva e corrigir os bugs encontrados no código do Madelbrot inicial. 

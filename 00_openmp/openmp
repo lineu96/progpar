@@ -1,0 +1,24 @@
+
+----------------------------------------
+
+Aulas
+
+https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG
+
+----------------------------------------
+
+Compilando .C pelo GCC
+gcc -fopenmp arquivo.c -o output
+
+Executando output
+./output
+
+----------------------------------------
+
+Compilando .C com openmp pelo GCC
+gcc -fopenmp arquivo.c -o output
+
+Executando output
+./output
+
+----------------------------------------

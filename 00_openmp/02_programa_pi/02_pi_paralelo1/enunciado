@@ -1,0 +1,7 @@
+Obtenção de pi através de um programa que obtém integral definida de forma paralela com openmp sem utilizar construção omp for
+
+#pragma omp parallel
+
+int omp_get_num_threads(); // Número de threads no time
+int omp_get_thread_num(); // ID da thread
+double omp_get_wtime(); // Tempo em segundos desde um ponto fixo no passado
